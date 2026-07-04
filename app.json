@@ -1,7 +1,7 @@
 {
   "name": "Dark_Bot",
   "description": "Javascript WhatsApp bot made by Emmaboy 26",
-  "logo": "https://files.catbox.moe/lcpy9f.jpg",
+  "logo": "https://files.catbox.moe/7sfhxn.jpeg",
   "keyword": ["DARK-BOT"],
   "success_url": "/",
 
@@ -131,7 +131,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/lcpy9f.jpg"
+      "value": "https://files.catbox.moe/7sfhxn.jpeg"
     },
     
      "DESCRIPTION": {
