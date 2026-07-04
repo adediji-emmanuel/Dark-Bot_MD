@@ -27,7 +27,7 @@ ANTI_LINK: process.env.ANTI_LINK || "false",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "true",
 // make true if want auto voice reply if someone menetion you 
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/lcpy9f.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/7sfhxn.jpeg",
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -49,7 +49,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Emmaboy 26",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 Dark_Bot*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/lcpy9f.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/7sfhxn.jpeg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> I'm alive*Dark_Bot*🇵🇰",
 // add alive msg here 
