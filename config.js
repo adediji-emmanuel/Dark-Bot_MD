@@ -13,7 +13,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY Arslan_MD 🇵🇰*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY Dark_Bot 🇵🇰*",
 // set the auto reply massage on status reply  
 ANTI_DELETE: process.env.ANTI_DELETE || "false",
 // set true false for anti delete     
@@ -31,11 +31,11 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/lcpy9f.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "Arslan_MD",
+BOT_NAME: process.env.BOT_NAME || "Dark_Bot",
 // add bot namw here for menu
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // true to get auto status react
-STICKER_NAME: process.env.STICKER_NAME || "Arslan_MD",
+STICKER_NAME: process.env.STICKER_NAME || "Dark_Bot",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -43,15 +43,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923237045919",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "+2348132990186",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ArslanMD Official",
+OWNER_NAME: process.env.OWNER_NAME || "Emmaboy 26",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 Arslan_MD*",
+DESCRIPTION: process.env.DESCRIPTION || "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 Dark_Bot*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/lcpy9f.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> I'm alive*Arslan_MD*🇵🇰",
+LIVE_MSG: process.env.LIVE_MSG || "> I'm alive*Dark_Bot*🇵🇰",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
