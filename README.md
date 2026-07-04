@@ -4,11 +4,11 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" />
+  <img src="https://files.catbox.moe/7sfhxn.jpeg" />
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/bxqan2.png" />
+  <img src="https://files.catbox.moe/7sfhxn.jpeg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
@@ -61,17 +61,17 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 [![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=blue)](https://arslan-xmd-pair-site.onrender.com/)
 
 <p align="center">
-  <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
+  <img src="[https://i.imgur.com/LyHic3i.gif](https://files.catbox.moe/7sfhxn.jpeg)" width="65%" />
 </p>
 
 <p align="center" style="color:#777;font-size:13px;">
-  <img src="https://github.com/Arslan-MD/Arslan_MD/blob/main/assets/warning.gif?raw=true" width="15" />
+  <img src="https://github.com/adediji-emmanuel/Dark-Bot_MD/blob/main/assets/warning.gif?raw=true" width="15" />
   <em>Having connection issues? Try using a VPN.</em>
 </p>
 
 
 <div align="center">
-  <img src="https://github.com/Arslan-MD/Arslan_MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/adediji-emmanuel/Dark-Bot_MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 <h2 align="center">🚀 Deployment Options</h2>
@@ -80,12 +80,12 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
   <table cellspacing="20">
     <tr>
       <td align="center">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/Arslan-MD/Arslan_MD" target="_blank">
+        <a href="https://dashboard.heroku.com/new?template=https://github.com/adediji-emmanuel/Dark-Bot_MD" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://app.koyeb.com/services/deploy?type=git&repository=Arslan-MD/Arslan_MD" target="_blank">
+        <a href="https://app.koyeb.com/services/deploy?type=git&repository=adediji-emmanuel/Dark-Bot_MD" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-FF2D95?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"/>
         </a>
       </td>
@@ -124,7 +124,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 <details>
 
-<b><strong><summary align="center" style="color: Yello;">Deploy Arslan-MD On Workflow</summary></strong></b>
+<b><strong><summary align="center" style="color: Yello;">Deploy Dark-Bot-MD On Workflow</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
  
 <h8>Copy the workflow codes and then fork the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
@@ -183,9 +183,9 @@ jobs:
 
 ---
 
-🚀 What is Arslan-MD?
+🚀 What is Dark-BotMD?
 
-Arslan-MD is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
+Dark-Bot-MD is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
 
 ✅ AI Chatbots (GPT-4, Gemini, Meta, Copilot)
 
@@ -224,7 +224,7 @@ Platform	Status
 
 ## ⚠️ Disclaimer
 
-- ❗ Arslan-MD is **not affiliated with WhatsApp Inc.**
+- ❗ Dark-Bot-MD is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse can lead to bans. Use at your own risk.
 - 🛑 Cloning or modifying without proper credit is prohibited.
 
@@ -232,9 +232,9 @@ Platform	Status
 
 ## 💡 Credits & Contributors
 
-> Made with ❤️ by Arslan-MD 
+> Made with ❤️ by Emmaboy 26 
 
-- 👤 [ArslanMD Official](https://github.com/Arslan-MD) – Creator & Maintainer  
+- 👤 [Emmaboy 26](https://github.com/adediji-emmanuel) – Creator & Maintainer  
   - Optimized scripts, plugin management, core features
 
 ---
@@ -242,12 +242,12 @@ Platform	Status
 ## 🗃️ PROJECT ARCHITECTS
 
 <p align="center">
-  <a href="https://github.com/Arslan-MD">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arslan-MD&show_icons=true&theme=radical">
+  <a href="https://github.com/adediji-emmanuel">
+    <img src="https://github-readme-stats.vercel.app/api?username=adediji-emmanuel&show_icons=true&theme=radical">
   </a>
 </p>
 <div align="center">
-  <img src="https://github.com/Arslan-MD/Arslan-Ai/blob/main/assets/menu.gif?raw=true" width="100%"/>
+  <img src="https://github.com/adediji-emmanuel/Arslan-Ai/blob/main/assets/menu.gif?raw=true" width="100%"/>
 </div>
 
 
