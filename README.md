@@ -7,9 +7,6 @@
   <img src="https://files.catbox.moe/7sfhxn.jpeg" />
 </p>
 
-<p align="center">
-  <img src="https://files.catbox.moe/7sfhxn.jpeg" />
-</p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
 <div align="center">
